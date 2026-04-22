@@ -1,8 +1,0 @@
-{
-  "expo": {
-    "name": "target",
-    "slug": "target",
-    "scheme": "target",
-    "plugins": ["expo-router"]
-  }
-}
